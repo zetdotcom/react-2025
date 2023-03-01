@@ -34,3 +34,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+react-2025-mz-firebase-adminsdk-ncl89-73103d741f.json
